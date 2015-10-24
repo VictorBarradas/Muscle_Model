@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <conio.h>
 
 const int SAMPLING_RATE = 1024;
 
